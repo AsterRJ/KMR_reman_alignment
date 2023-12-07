@@ -1,0 +1,6 @@
+devel_space: /home/arjp/KMR_SET/kmr_imaging/devel
+install: false
+install_space: /home/arjp/KMR_SET/kmr_imaging/install
+profile: default
+source_space: /home/arjp/KMR_SET/kmr_imaging/src
+workspace: /home/arjp/KMR_SET/kmr_imaging

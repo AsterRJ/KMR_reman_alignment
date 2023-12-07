@@ -1,0 +1,8 @@
+prefix=/home/arjp/KMR_SET/kmr_imaging/install
+
+Name: pcd2mesh
+Description: Description of pcd2mesh
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
